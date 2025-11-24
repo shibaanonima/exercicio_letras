@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\palavra3\palavra3\bin\Debug\net8.0\palavra3.exe
+C:\Users\user\source\repos\palavra3\palavra3\bin\Debug\net8.0\palavra3.deps.json
+C:\Users\user\source\repos\palavra3\palavra3\bin\Debug\net8.0\palavra3.runtimeconfig.json
+C:\Users\user\source\repos\palavra3\palavra3\bin\Debug\net8.0\palavra3.dll
+C:\Users\user\source\repos\palavra3\palavra3\bin\Debug\net8.0\palavra3.pdb
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\palavra3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\palavra3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\palavra3.AssemblyInfo.cs
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\palavra3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\palavra3.dll
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\refint\palavra3.dll
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\palavra3.pdb
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\palavra3.genruntimeconfig.cache
+C:\Users\user\source\repos\palavra3\palavra3\obj\Debug\net8.0\ref\palavra3.dll
